@@ -1,3 +1,7 @@
+button {
+  margin: 1rem;
+}
+
 .progress {
   height: 20px;
   width: 50%;
@@ -14,11 +18,11 @@
 }
 
 .green {
-  background-color: green;
+  background-color: rgba(0, 128, 0, 0.5);
 }
 
 .red {
-  background-color: red;
+  background-color: rgba(255, 9, 9, 0.678);
 }
 
 .white {
@@ -26,7 +30,7 @@
 }
 
 .blue {
-  background-color: blue;
+  background-color: rgba(63, 63, 253, 0.733);
 }
 
 .yellow {
