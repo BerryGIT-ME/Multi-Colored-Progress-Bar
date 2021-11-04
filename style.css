@@ -1,0 +1,34 @@
+.progress {
+  height: 20px;
+  width: 50%;
+  background-color: rgb(221, 212, 212);
+  margin: 1rem;
+  border-radius: 10px;
+}
+
+.progress div {
+  height: 100%;
+  width: 50%;
+  border-radius: 10px;
+  border: 1px solid grey;
+}
+
+.green {
+  background-color: green;
+}
+
+.red {
+  background-color: red;
+}
+
+.white {
+  background-color: white;
+}
+
+.blue {
+  background-color: blue;
+}
+
+.yellow {
+  background-color: yellow;
+}
